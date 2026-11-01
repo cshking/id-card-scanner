@@ -1,0 +1,19 @@
+{
+  "name": "证件扫描 · 身份证输出工具",
+  "short_name": "证件扫描",
+  "description": "手机端身份证双面扫描，一键导出 JPG / PDF，全程本机处理不上传。",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f9",
+  "theme_color": "#00b4a6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
